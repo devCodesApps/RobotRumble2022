@@ -14,3 +14,8 @@ SensorBasedMovementSumoBOT.ino contains some test code for checking whether the 
 _3opening_sequences_SUMO.ino contains code for 3 opening sequences where the sumo bot would move
 
 SumoRecieve.ino and SumoTransmit.ino contain code for the reciever and transmitter (to move the sumo robot using a joystick)
+
+Demo of the RC Sumo:
+
+https://github.com/user-attachments/assets/fe61f73f-b05d-403c-93d7-826d855c35d1
+
