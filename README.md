@@ -15,7 +15,7 @@ _3opening_sequences_SUMO.ino contains code for 3 opening sequences where the sum
 
 SumoRecieve.ino and SumoTransmit.ino contain code for the reciever and transmitter (to move the sumo robot using a joystick)
 
-Demo of the RC Sumo:
+Demo of the RC Sumo (yes ik the cable management isn't the greatest):
 
 https://github.com/user-attachments/assets/fe61f73f-b05d-403c-93d7-826d855c35d1
 
